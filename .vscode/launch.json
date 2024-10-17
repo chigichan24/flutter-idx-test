@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "flutter-idx-test (Flutter Chrome)",
+            "program": "lib/main.dart",
+            "deviceId": "chrome",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
